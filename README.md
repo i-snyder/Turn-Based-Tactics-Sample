@@ -2,7 +2,7 @@
 
 Sample code from a turn-based tactics game named Woodland Tactics ⚔
 
-![alt text]( "Woodland Tactics")
+![alt text](https://raw.githubusercontent.com/i-snyder/Turn-Based-Tactics-Sample/main/woodlandtactics.gif "Woodland Tactics")
 
 ## Features
 - Unit Jobs, Abilities, and Clan systems
