@@ -11,3 +11,5 @@ Sample code from a turn-based tactics game named Woodland Tactics ⚔
 - 2D skeletal animated characters in a 3D world with math-driven computation of rendering sort-order
 - Tile-based movement with A* pathfinding
 - Complex menu UI with unit management
+
+[MORE INFO](https://iansnyder.games/#studionisse)
